@@ -1,0 +1,30 @@
+body{
+    direction: rtl;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(197, 140, 125);
+    margin:0;
+    padding :0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+fieldset{
+    border-color:white;
+    border-radius: 8px;
+    width:35%;
+    background-color: rgb(229, 225, 225);
+}
+div{
+    margin-right:37%;
+}
+img{
+    border-radius:50%;
+    width:150px;
+     height:140px;
+}
+p{
+    color:red;
+    font-size: 40px;
+}
+
